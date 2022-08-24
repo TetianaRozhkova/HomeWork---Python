@@ -1,1 +1,0 @@
-print("task7test1")
