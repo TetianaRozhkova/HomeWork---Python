@@ -8,7 +8,6 @@ def myfunc(a, b, c):
     elif a < b:
         print("Ohh, No!:(")
 
-
 a = int(input())
 b = int(input())
 c = int(input())
